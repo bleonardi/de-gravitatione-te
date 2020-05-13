@@ -1,0 +1,13 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - jupyter
+  - numpy
+  - Cython
+  - pip
+  - pip:
+    - --pre topicexplorer
+    - htrc-feature-reader
