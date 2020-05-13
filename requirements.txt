@@ -1,6 +1,0 @@
-matplotlib
-jupyter
-numpy
-Cython
---pre topicexplorer
-htrc-feature-reader
